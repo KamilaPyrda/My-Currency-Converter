@@ -1,0 +1,16 @@
+.header {
+    background-color: rgb(238, 197, 250);
+    border: 2px solid rgba(23, 9, 101, 0.846);
+    border-radius: 20px;
+    max-width: 600px;
+    margin: 40px auto;
+    box-shadow: 5px 5px 5px rgb(29, 4, 139);
+    text-align: center;
+}
+
+.header__name {
+    color: rgb(48, 7, 60);
+    text-align: center;
+    padding: 5px;
+    text-shadow: 1px;
+}
